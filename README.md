@@ -9,7 +9,7 @@ But then I remember one time I told my-self (gaslight) `You don't deserve anythi
 So yep! I'm here starting this repo, hopefully I finish it. Idk man, I hate myself.
 
 ## What is inside the label?
-So the dataset that I use is this [link to dataset or something](), I want to experiment thing with PPE Safety detection and found this dataset.
+So the dataset that I use is this [link to dataset or something](https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection), I want to experiment thing with PPE Safety detection and found this dataset.
 
 ### Here is the sample of the VOC label
 ```xml
